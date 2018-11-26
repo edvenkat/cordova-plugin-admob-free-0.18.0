@@ -1,0 +1,1 @@
+# cordova-plugin-admob-free-0.18.0
